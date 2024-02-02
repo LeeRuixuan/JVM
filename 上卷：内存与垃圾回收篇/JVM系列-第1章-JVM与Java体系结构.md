@@ -9,7 +9,7 @@
 3. 新项目上线，对各种JVM参数设置一脸茫然，直接默认吧然后就JJ了。
 4. 每次面试之前都要重新背一遍JVM的一些原理概念性的东西，然而面试官却经常问你在实际项目中如何调优VM参数，如何解决GC、OOM等问题，一脸懵逼。
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/49995220-5cd3-440e-81be-58a3ffca6d50/ede4f109-bd5b-4077-9381-dffd05ed5404/Untitled.png)
+![image1](https://prod-files-secure.s3.us-west-2.amazonaws.com/49995220-5cd3-440e-81be-58a3ffca6d50/ede4f109-bd5b-4077-9381-dffd05ed5404/Untitled.png)
 
 大部分Java开发人员，除了会在项目中使用到与Java平台相关的各种高精尖技术，对于Java技术的核心Java虚拟机了解甚少。
 
